@@ -1,6 +1,6 @@
 def print_pattern(thickness, c='H'):
     result = []
-
+ 
     # Top Cone
     for i in range(thickness):
         line = (c * i).rjust(thickness - 1) + c + (c * i).ljust(thickness - 1)
