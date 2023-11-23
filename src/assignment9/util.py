@@ -1,5 +1,5 @@
 from collections import namedtuple
-
+ 
 def class_avg_marks(num_students, columns, student_data):
     
     total = 0
