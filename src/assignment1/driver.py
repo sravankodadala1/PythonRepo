@@ -6,7 +6,7 @@ def list_operations(commands):
             list.insert(int(com[1]),int(com[2]))
         elif com[0] == "print":
             print(list)
-        elif com[0] == "remove":
+        elif com[0] == "remove": 
             e = int(com[1])
             list.remove(e)
         elif com[0] == "append":
