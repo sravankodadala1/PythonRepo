@@ -1,4 +1,4 @@
-from itertools import combinations
+from itertools import combinations 
 
 def iterables_and_iterators(N, L, K):
     C = list(combinations(L, K))
