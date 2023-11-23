@@ -1,5 +1,5 @@
 from util import process_array
-
+ 
 # Taking input from the user
 input_array = numpy.array(input("Enter space-separated elements of the array: ").split(), float)
 
