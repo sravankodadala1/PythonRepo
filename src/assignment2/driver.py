@@ -1,6 +1,6 @@
 from util import total_marks
 from src.assignment2.util import total_marks
-
+  
 
 n = int(input("Enter the number of students: "))
 student_marks = {}
