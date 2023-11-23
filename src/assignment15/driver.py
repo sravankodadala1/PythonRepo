@@ -1,6 +1,6 @@
 from util import word_order
 
-
+ 
 
 n = int(input("enter the number of words"))
 words = [input("enter the word") for i in range(n)]
