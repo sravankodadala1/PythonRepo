@@ -1,5 +1,5 @@
 from util import updated_string
-
+ 
 #taking input of string from the user
 string = input("Enter the string")
 #taking value of k from the user 
