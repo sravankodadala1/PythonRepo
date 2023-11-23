@@ -1,5 +1,5 @@
 from src.assignment3.util import Runner_up_score
-
+ 
 #user input the number of participants
 n = int(input("Enter the number of participants "))
 #enter the values for participants
