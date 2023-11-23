@@ -15,3 +15,5 @@ for i in range(n):
 query_name = input("Enter the name of the student to query: ")
 total_marks(student_marks, query_name)
 
+
+ 
