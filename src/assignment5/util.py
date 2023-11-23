@@ -4,7 +4,7 @@ def updated_string(string, k):
     #created a empty string
     sub_string = ""
     result=""
-
+ 
     for i in string:
         #if i not present in sub_string increment sub_string by 1
         if i not in sub_string:
