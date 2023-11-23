@@ -1,5 +1,5 @@
 import re
-
+ 
 def is_valid_email(email):
     return bool(re.match(r'^([a-z0-9_\-]+)@([a-z0-9]+)\.([a-z]{1,3})$', email))
 
