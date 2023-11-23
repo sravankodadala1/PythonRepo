@@ -1,4 +1,4 @@
- 
+  
 from util import print_pattern
 
 # Take user input for the thickness
