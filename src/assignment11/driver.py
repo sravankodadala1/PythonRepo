@@ -8,5 +8,5 @@ floor_result, ceil_result, rint_result = process_array(input_array)
 
 # Displaying the results
 print("Floor Result:", floor_result)
-print("Ceil Result:", ceil_result)
+print("Ceil Result:", ceil_result) 
 print("Rint Result:", rint_result)
