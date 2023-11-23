@@ -7,3 +7,4 @@ arr = list(map(int, input("enter participants seperated by space").split()))
 #calling the function and storing it in result
 result = Runner_up_score(n, arr)
 print("Score of runner-up", result)
+ 
