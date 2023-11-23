@@ -1,5 +1,5 @@
 from datetime import datetime
-
+ 
 def calculate_time_delta(t1, t2):
     format_ = '%a %d %b %Y %H:%M:%S %z'
     t1 = datetime.strptime(t1, format_)
