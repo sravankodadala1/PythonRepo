@@ -1,5 +1,5 @@
 from util import mutate_string
-
+ 
 #enter the string
 s = input("enter the string")
 #enter the postion and character where you want to change
