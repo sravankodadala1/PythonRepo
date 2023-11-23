@@ -10,6 +10,6 @@ b = set(map(int, input("enter the values of set2").split()))
 result = happiness(array_values, a, b)
 print(result)
 
-
+ 
 
 
