@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 def mean_var_std(n, m, data):
     k = np.array(data, dtype=int)
     np.set_printoptions(legacy='1.13')
