@@ -1,5 +1,5 @@
 from util import class_avg_marks
-
+ 
 #enter the number of students
 num_students = int(input("enter number of students"))
 #enter the number of fields 
