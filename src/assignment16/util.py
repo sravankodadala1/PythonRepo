@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np 
  
 def mean_var_std(n, m, data):
     k = np.array(data, dtype=int)
