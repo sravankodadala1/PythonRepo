@@ -1,5 +1,5 @@
 def happiness(array, a, b):
-    #initialize happiness as 0
+    #initialize happiness as 0 
     happiness = 0
     for i in array:
         #if value of i in set1, increment happiness by 1
