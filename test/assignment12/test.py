@@ -6,7 +6,7 @@ class MyTestCase(unittest.TestCase):
         values = [
             [2, 1, 4],
             [5, 6, 7],
-            [4, 7, 8]
+            [4, 7, 8] 
         ]
         result = np_min_max(values)
         self.assertEqual(result, 7)
