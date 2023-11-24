@@ -7,6 +7,6 @@ class MyTestCase(unittest.TestCase):
         output=mutate_string("abcd", 2, "a")
         self.assertEqual(output, "abad")
 
-
+ 
 if __name__ == '__main__':
     unittest.main()
