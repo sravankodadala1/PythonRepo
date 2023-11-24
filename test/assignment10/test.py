@@ -1,7 +1,7 @@
 import unittest
 from src.assignment10.util import calculate_time_delta
 
-class MyTestCase(unittest.TestCase):
+class MyTestCase(unittest.TestCase): 
     def test_something(self):
         t1 = "Sun 10 May 2015 13:54:36 -0700"
         t2 = "Sun 10 May 2015 13:54:36 -0000"
