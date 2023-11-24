@@ -2,7 +2,7 @@
 import unittest
 from src.assignment1.util import list_operations
 
-class TestListCommands(unittest.TestCase):
+class TestListCommands(unittest.TestCase): 
     def test_list_operations(self):
         # Example test case
         l1 = []
