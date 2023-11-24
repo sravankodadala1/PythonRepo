@@ -8,7 +8,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(count, 3)
         self.assertEqual(occurrences, [2, 1, 1])
 
-
+ 
 
 if __name__ == '__main__':
     unittest.main()
