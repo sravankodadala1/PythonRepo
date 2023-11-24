@@ -1,5 +1,5 @@
-from PythonRepo.src.assignment8.util import print_formatted
-
+from PythonRepo.src.assignment8.util import String_formatting
+ 
  
 n = int(input("Enter a number: "))
-print_formatted(n)
+String_formatting(n)
