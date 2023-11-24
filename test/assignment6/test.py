@@ -2,7 +2,7 @@ import unittest
 from PythonRepo.src.assignment6.util import print_pattern
 
 class MyTestCase(unittest.TestCase):
-    def test_something(self):
+    def test_something(self): 
         thickness = 3
         expected_output = [
             '  H  ',
