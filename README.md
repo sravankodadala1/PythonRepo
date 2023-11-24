@@ -1,2 +1,2 @@
 # PythonRepo
-Solving Assignment problems
+Python HackerRank Assignment Problems
