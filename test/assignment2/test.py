@@ -1,7 +1,7 @@
 import unittest
 from src.assignment2.util import total_marks
 
-class TestListCommands(unittest.TestCase):
+class TestListCommands(unittest.TestCase): 
     def test_total_marks(self):
         # Example test case
         student_cgpa = {"Sravan": [7.0, 8.0, 9.0], "kiran": [7.0, 8.0, 6.0]}
