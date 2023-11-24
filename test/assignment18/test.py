@@ -6,6 +6,6 @@ class MyTestCase(unittest.TestCase):
         self.assertAlmostEqual(iterables_and_iterators(4, ['a', 'b', 'c', 'd'], 2), 0.5, places=3)
 
 
-
+ 
 if __name__ == '__main__':
     unittest.main()
